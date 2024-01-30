@@ -4,7 +4,9 @@ Player_turn (black_jackHand)
 	String stand <-- user input
 
 Player_turn (calculate_black_jackHand)
-if player's hand is <= 18
+if player's hand is < 18
 	then "stand"
 else
 	"hit"
+then loop until
+	player's hand < 18
