@@ -9,5 +9,5 @@ if player's hand is < 18
 else
 	"hit"
 
-then loop until
-	player's hand < 18
+// then loop until
+	// player's hand < 18
