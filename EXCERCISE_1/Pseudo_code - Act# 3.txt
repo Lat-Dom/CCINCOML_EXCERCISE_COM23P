@@ -8,5 +8,6 @@ if player's hand is < 18
 	then "stand"
 else
 	"hit"
+
 then loop until
 	player's hand < 18
