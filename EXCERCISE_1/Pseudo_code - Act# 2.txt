@@ -1,0 +1,7 @@
+Print out "Enter a number: "
+num <-- User input
+ 
+if the user input is even
+	then print out "User Input is even"
+else
+	print out "User Input is odd"
